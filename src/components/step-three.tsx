@@ -28,6 +28,7 @@ export default function StepThree() {
         alt="Letter coutouts with dried flowers"
         width={450}
         height={600}
+        priority
       />
       <div className="flex flex-col justify-center gap-4">
         <Image
@@ -36,6 +37,7 @@ export default function StepThree() {
           alt="Letter coutouts with dried flowers"
           width={200}
           height={200}
+          priority
         />
         <div className="flex flex-col">
           <h1 className="font-mono font-bold text-3xl md:text-5xl">
@@ -52,6 +54,7 @@ export default function StepThree() {
           alt="Letter coutouts with dried flowers"
           width={150}
           height={150}
+          priority
         />
       </div>
     </motion.div>

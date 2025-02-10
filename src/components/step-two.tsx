@@ -77,6 +77,7 @@ export default function StepTwo() {
         alt="Letter coutouts with dried flowers"
         width={800}
         height={640}
+        priority
       />
       <div className="flex flex-col gap-1 md:gap-2 pt-24 md:pt-32 pb-20 px-14 md:px-44 max-w-3xl text-xs md:text-sm">
         <h1>Hi Langga,</h1>
